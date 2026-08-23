@@ -10,7 +10,7 @@
 
 |Milestone|Main Tasks|Deadline|
 |---|---|---|
-|1|choose your topic, potential datasets, brainstorm interesting questions|Sunday, September 12|
+|1|choose your topic, potential datasets, brainstorm interesting questions|Sunday, September 20|
 |2|explore data, discover interesting finding, sketch proposed final charts|Sunday, October 04 |
 |Final|final chart, video, and report|Thursday, October 15|
 |Peer Review|comment/feedback on classmates' projects|Friday, October 16|

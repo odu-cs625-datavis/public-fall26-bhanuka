@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-**Due:** Sunday, September 5, 2026
+**Due:** Sunday, September 6, 2026
 
 The goal of this week's assignment is to get you set up for the rest of the semester.  You'll explore Git and GitHub, Markdown, Tableau, Google Colab, Seaborn, and Observable with Vega-Lite.
 

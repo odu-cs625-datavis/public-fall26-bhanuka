@@ -2,7 +2,7 @@
 
 **Insert Your Name Here**  
 CS 625, Fall 2026  
-Due: Sunday, September 5, 2026
+Due: Sunday, September 6, 2026
 
 ## Git, GitHub
 
